@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-max-params-call",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/max-params-call.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizbills/eslint-plugin-max-params-call.git"
+  },
+  "keywords": [
+    "eslint",
+    "plugin"
+  ],
+  "author": "Luiz Paulo Bills",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luizbills/eslint-plugin-max-params-call/issues"
+  },
+  "homepage": "https://github.com/luizbills/eslint-plugin-max-params-call#readme",
+  "devDependencies": {
+    "eslint": ">=3"
+  }
+}

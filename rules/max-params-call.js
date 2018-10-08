@@ -5,7 +5,7 @@ const create = function (context) {
       if (limit >= 0 && node.arguments.length > limit) {
         context.report({
           node,
-          message: 'error message here',
+          message: 'invalid call expression',
         })
       }
     }
